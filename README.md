@@ -12,5 +12,5 @@ Steps:
    1. SSSOM TSV: `mapping_id.sssom.tsv`. A regular TSV file without a header.
    2. SSSOM Metadata: `mapping_id.sssom.yml`. A yml file containing the mapping set metadata for the SSSOM TSV.
    3. SSSOM TSV (embedded): `mapping_id_embedded.sssom.tsv`. The SSSOM Metdata is included in the header of the SSSOM TSV, see [here](https://w3id.org/sssom/SSSOM.md#embedded-mode).
-2. 
-
+2. All the metadata you include in the mappings.yml should be included (added to, if necessary) in the SSSOM Metadata.
+3. In most cases, mappings should be between two sources, and the identifiers of the subject should belong to one sources, and the identifiers of the object to the other.
