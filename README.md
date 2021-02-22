@@ -2,7 +2,7 @@
 Template repo for other mapping-commons registries. 
 
 Steps:
-1. Create a new repo from this template.
+1. Create a [new repo from this template](https://github.com/mapping-commons/mapping-commons-template/generate).
 2. Update `mappings.yml`
 3. Expose your sssom files in the `mappings` directory. Make sure for every mapping follows the conventions below.
 
