@@ -7,8 +7,8 @@
 #mapping_set_group: pistoia_mappings
 #mapping_set_id: mp_hp_pistoia
 #mapping_set_title: 'The Pistoia Ontology Mappings: MP-HP'
-#object_source: http://purl.obolibrary.org/hp.owl
-#subject_source: http://purl.obolibrary.org/mp.owl
+#object_source: http://purl.obolibrary.org/obo/hp.owl
+#subject_source: http://purl.obolibrary.org/obo/mp.owl
 subject_id	predicate_id	object_id	confidence
 MP:0012051	owl:equivalentClass	HP:0001257	1.0
 MP:0003699	owl:equivalentClass	HP:0030012	0.75
